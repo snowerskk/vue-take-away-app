@@ -1,21 +1,7 @@
-# sale
-
-> sale app
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+这是一个用vue-cli实现的高仿外卖App<br>
+原本是网上一个vue1.0的教程，我这里用vue2.0实现的<br>
+踩踩坑，认识一下2.0版本相对于1.0版本的改动在具体应用中的差别<br>
+webpack、vue2.0、axios、vue-router<br>
+字体图标用的icomoon<br>
+部分动画效果为简便用的animate.css<br>
+第一次用github pages，想用来展示页面效果，搜了很多教程还是有问题
